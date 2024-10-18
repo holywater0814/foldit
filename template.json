@@ -1,0 +1,20 @@
+{
+    "webpp": {        
+        "templates":{
+            "files":["index.html","upload.html","blog.html"],
+            "src":{
+                "style":{
+                    "files":["style.css"]
+                },
+                "js":{
+                    "files":["app.js"]
+                }
+            }
+        },
+        "static":{
+            "images":{},
+            "uploads":{}
+        },
+        "files":["readme.md"]
+    } 
+}
