@@ -1,0 +1,24 @@
+{
+
+    "flask_webpp": {  
+    
+    	 "files":["README.md","data.py","main.py"],    
+       
+    	 "templates":
+    	 	{
+            	"files":["index.html","upload.html","blog.html"]
+       		 },
+        
+         "static":
+         	{
+            "images":{},
+            
+            "style":{
+                 "files":["style.css"]
+             }
+            
+        }
+       
+    } 
+    
+}

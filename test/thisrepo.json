@@ -1,0 +1,20 @@
+
+{
+    "foldit":{
+    
+        "files":["install.sh","README.md"],
+    
+        "source":{
+        "files":["cJSON.h","cJSON.c","main.c"]
+        },
+
+        "Packages":{},
+        
+        "test":{
+            "files":["thisrepo.json"],
+            "example":{
+             "files":["template.json"]
+          }
+        } 
+      }
+    }
