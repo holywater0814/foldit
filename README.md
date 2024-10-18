@@ -1,1 +1,0 @@
-# foldit-a-CLI-tool-to-generate-custom-file-structure
