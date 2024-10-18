@@ -17,7 +17,7 @@ if [[ "$OS" == "Linux" ]]; then
 
         # Download and install the tool
         echo "Downloading the tool..."
-        wget https://github.com/awakesid/foldit/blob/main/Packages/foldit-1.0.deb
+        wget https://raw.githubusercontent.com/awakesid/foldit/main/Packages/foldit-1.0.deb
         echo "Installing the tool..."
         sudo dpkg -i foldit-1.0.deb
         rm foldit-1.0.deb
